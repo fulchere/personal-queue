@@ -1,6 +1,9 @@
 # personal-queue
 Bypass schedule.msu.edu
 
+Requirements
+==selenium, thru virt env or install w/ pip
+
 TODO
 ~Run through aws instead of desktop pc
 ~Easy way to add 'queues' which would include subject, course number, and phone number to text
